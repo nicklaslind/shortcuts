@@ -11,7 +11,7 @@ This converts any link to a search paper into an easily accessible, public link 
 
 Navigated to the paper you want to read, tap the shortcut and the PDF link becomes available.
 
-3. [Simple counter shortcut](https://www.icloud.com/shortcuts/ae1102c1ed4445cb928d56e04befcd7d
+3. [Simple counter shortcut](https://www.icloud.com/shortcuts/73879af958b5449780494d9d3aaea8a5
  "Simple counter shortcut")
 
 I made this shortcut when I needed to count every instance of speech communication between two participants in a research study.
