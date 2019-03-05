@@ -17,3 +17,8 @@ Navigated to the paper you want to read, tap the shortcut and the PDF link becom
 I made this shortcut when I needed to count every instance of speech communication between two participants in a research study.
 
 Every tab on the button simply increments the counter number and saves it in Health app – yes, the Health app! – for automatic sync.
+
+4. [Diary saved in Notes app](https://www.icloud.com/shortcuts/da868175766a45e499eefe48cbcd3a72
+ "Diary saved in Notes app")
+
+I write some everyday experiences down in a diary. Every entry is saved on a new line in Notes app with date stamp. 
