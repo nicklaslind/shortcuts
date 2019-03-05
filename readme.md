@@ -1,5 +1,7 @@
 # Shortcuts
-A collection of Shortcuts I made for iOS. You will need [the Shortcuts app](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 "Shortcuts app for iOS") for iOS in order to run the shortcuts on your iPhone or iPad.
+I love shortcuts on iOS, and I've made embarrasingly many of them. Here are some of my shortcuts for you to try or reuse :-) 
+
+You will need [the Shortcuts app](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 "Shortcuts app for iOS") for iOS in order to run the shortcuts on your iPhone or iPad.
 
 1. [Automatically generated “Happy Birthday” message](https://www.icloud.com/shortcuts/7653857dc22b43e6b6e7de1bdc8dada9 "Automatically generated “Happy Birthday” message")
 
