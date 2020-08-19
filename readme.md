@@ -1,5 +1,5 @@
 # Shortcuts
-I love shortcuts on iOS, and I've made embarrasingly many of them. Here are some of my shortcuts for you to try or reuse :-) 
+I love shortcuts on iOS, and I've an embarrasingly large amount of them. Here are some of my shortcuts for you to try or reuse :-) 
 
 You will need [the Shortcuts app](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 "Shortcuts app for iOS") for iOS in order to run the shortcuts on your iPhone or iPad.
 
